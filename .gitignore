@@ -1,0 +1,4 @@
+.venv
+venv
+# igonre the data file 
+data.csv 
