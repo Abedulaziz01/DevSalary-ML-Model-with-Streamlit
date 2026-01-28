@@ -40,3 +40,8 @@ Use the training script to process your data and train a model:
 python train_model.py
 
 After training, the model will be saved as model.pkl for use in the web app.
+
+🌐 Run the Web App
+
+To start the Streamlit app:
+streamlit run app.py
