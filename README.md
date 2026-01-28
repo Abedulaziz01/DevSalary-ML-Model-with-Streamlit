@@ -45,3 +45,17 @@ After training, the model will be saved as model.pkl for use in the web app.
 
 To start the Streamlit app:
 streamlit run app.py
+
+Your browser will open showing the interactive interface where users can input values and see model predictions.
+
+📊 Features
+
+✔ Load and preprocess data
+✔ Train and evaluate a machine learning model
+✔ Save and load trained model file
+✔ Streamlit web interface for predictions
+✔ User‑friendly UI with inputs and output display
+
+📦 Dependencies
+
+Example contents of requirements.txt:
