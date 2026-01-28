@@ -32,20 +32,28 @@ Clone the repository
 https://github.com/Abedulaziz01/DevSalary-ML-Model-with-Streamlit.git
 
 Install required packages
+
+```
 pip install -r requirements.txt
+```
 
 🧠 Train the ML Model
 
 Use the training script to process your data and train a model:
 
+```
 python train_model.py
+```
 
 After training, the model will be saved as model.pkl for use in the web app.
 
 🌐 Run the Web App
 
 To start the Streamlit app:
+
+```
 streamlit run app.py
+```
 
 Your browser will open showing the interactive interface where users can input values and see model predictions.
 
@@ -61,10 +69,13 @@ Your browser will open showing the interactive interface where users can input v
 
 Example contents of requirements.txt:
 
+```
 streamlit
 pandas
 scikit-learn
 numpy
+```
+
 These packages install the tools needed for this project.
 
 🧠 Learnings from This Project
