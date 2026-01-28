@@ -16,12 +16,14 @@ This project shows how to build a machine learning web application from scratch 
 
 🗂️ Repository Structure (Example)
 
-├── app.py # Streamlit application script
-├── model.pkl # Saved machine learning model
-├── train_model.py # Script to train the ML model
-├── requirements.txt # Project dependencies
-├── data/ # Datasets used for training
-└── README.md # This file
+```plaintext
+├── app.py              # Streamlit application script
+├── model.pkl           # Saved machine learning model
+├── train_model.py      # Script to train the ML model
+├── requirements.txt    # Project dependencies
+├── data/               # Datasets used for training
+└── README.md
+
 
 🛠️ Setup & Installation
 
@@ -75,3 +77,4 @@ These packages install the tools needed for this project.
 #### ✔Turning data science into a production‑ready app
 
 If you want a code template, enhanced features, or deployment instructions, just let me know!
+```
