@@ -15,7 +15,7 @@ This project shows how to build a machine learning web application from scratch 
 #### ✔Simple tools to run and explore predictions in your browser
 
 🗂️ Repository Structure (Example)
-.
+
 ├── app.py # Streamlit application script
 ├── model.pkl # Saved machine learning model
 ├── train_model.py # Script to train the ML model
