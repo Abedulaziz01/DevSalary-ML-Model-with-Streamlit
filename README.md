@@ -29,3 +29,14 @@ This project shows how to build a machine learning web application from scratch 
 
 Clone the repository
 https://github.com/Abedulaziz01/DevSalary-ML-Model-with-Streamlit.git
+
+Install required packages
+pip install -r requirements.txt
+
+🧠 Train the ML Model
+
+Use the training script to process your data and train a model:
+
+python train_model.py
+
+After training, the model will be saved as model.pkl for use in the web app.
