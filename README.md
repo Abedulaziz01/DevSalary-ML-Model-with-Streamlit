@@ -15,3 +15,17 @@ This project shows how to build a machine learning web application from scratch 
 -Code for data preprocessing, model training, and app UI
 
 -Simple tools to run and explore predictions in your browser
+
+🗂️ Repository Structure (Example)
+.
+├── app.py # Streamlit application script
+├── model.pkl # Saved machine learning model
+├── train_model.py # Script to train the ML model
+├── requirements.txt # Project dependencies
+├── data/ # Datasets used for training
+└── README.md # This file
+
+🛠️ Setup & Installation
+
+Clone the repository
+https://github.com/Abedulaziz01/DevSalary-ML-Model-with-Streamlit.git
