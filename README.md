@@ -4,22 +4,14 @@ This project shows how to build a machine learning web application from scratch 
 
 🚀 Project Overview
 
-This repository contains:
+-This repository contains:
 
-A trained machine learning model
+-This repository contains:
 
-A Streamlit web app to interact with the model
+-A trained machine learning model
 
-Code for data preprocessing, model training, and app UI
+-A Streamlit web app to interact with the model
 
-Simple tools to run and explore predictions in your browser
+-Code for data preprocessing, model training, and app UI
 
-The project follows the structure taught in the video:
-
-Analyze and prepare the data
-
-Train and save a machine learning model
-
-Build a web interface using Streamlit
-
-Deploy the app locally
+-Simple tools to run and explore predictions in your browser
